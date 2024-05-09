@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Briggitte</h1>
 <h3 align="center">A passionate frontend and backend developer from Chile</h3>
 
-Bienvenidos soy Briggitte, desarrolladora trainee.
-Soy Nacida en la ciudad de Temuco y actualmente resido en la comuna de valparaiso, chile.
+¡Bienvenidos! soy Briggitte, desarrolladora  full stack trainee en formación.
+Soy Nacida en la ciudad de Temuco y actualmente resido en la comuna de Valparaiso, Chile.
 
-Hoy en día me dedico a estudiar desarrollo web para ampliar mi campo laboral. 
+Hoy en día me dedico a estudiar desarrollo web para ampliar mi campo laboral. compremetida en 
 
 Mi formación ha sido en base de boostcamp, en phyton en la academia coding Dojo y actualmente estoy terminando full stack trainee  javascript, en la academia desafío latam.
 
 Cuento con las habilidades técnicas necesarias, para el desarrollo tanto del backend como del frontend. Mis habilidades blandas son  clave para un trabajo full stack incluyen una comunicación efectiva, lo que me permite colaborar con mi equipo. me adapto rápidamente a los cambios tecnológicos y a los requisitos del proyecto en evolución.
-
-para contactarme o revisar mi trabajo puedes ingresar a los siguientes link:
-
-- Github: https://github.com/bri-ramirez
-- linkedin: https://www.linkedin.com/in/briggitte-ramirez/
-
-
 
 
 - 📫 How to reach me **briggitte.ramirez13@gmail.com**
