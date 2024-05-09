@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Briggitte</h1>
-<h3 align="center">A passionate frontend and backend developer from Chile</h3>
+<h1 align="center"> 👋, About me:</h1>
 
 ¡Bienvenidos! soy Briggitte, desarrolladora  full stack trainee en formación.
 Soy Nacida en la ciudad de Temuco y actualmente resido en la comuna de Valparaiso, Chile.
